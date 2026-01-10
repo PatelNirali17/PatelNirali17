@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Nirali Patel
 
-<!--
-**PatelNirali17/PatelNirali17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Senior Angular Developer** with 6+ years of experience in building scalable and high-performance web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 💼 Senior Angular Developer
+- 🧠 Strong expertise in Angular, TypeScript, RxJS, and Reactive Forms
+- ⚙️ Experienced in enterprise-level application development
+- 📈 Focused on performance optimization and clean code
+- 🤝 Team player with strong problem-solving skills
+
+---
+
+## 🛠️ Tech Stack
+**Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3, SCSS  
+**UI Libraries:** Angular Material, Bootstrap  
+**State Management:** RxJS  
+**Tools:** Git, GitHub, VS Code  
+**APIs:** REST APIs
+
+---
+
+## 📂 Project Domains
+- Healthcare Management Systems  
+- Hotel Management Systems  
+- Loan Recovery Systems  
+- Machinery Management Systems  
+
+---
+
+## 📫 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-username
+- 📧 Email: your-email@example.com
+
+---
+
+⭐ Passionate about learning, improving, and building impactful web solutions.
