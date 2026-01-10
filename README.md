@@ -31,8 +31,8 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-username
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/nirali-patel-404bb21a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+- 📧 Email: niralibpatel13@gmail.com
 
 ---
 
