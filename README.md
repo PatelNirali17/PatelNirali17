@@ -1,39 +1,64 @@
 # Hi 👋, I'm Nirali Patel
 
-🚀 **Senior Angular Developer** with 6+ years of experience in building scalable and high-performance web applications.
+🚀 **Senior Angular Developer | Full-Stack (Angular | Python | Django)**  
+💼 6+ years of experience in building scalable, high-performance web applications and enterprise systems.
 
 ---
 
-## 👩‍💻 About Me
-- 💼 Senior Angular Developer
-- 🧠 Strong expertise in Angular, TypeScript, RxJS, and Reactive Forms
-- ⚙️ Experienced in enterprise-level application development
-- 📈 Focused on performance optimization and clean code
-- 🤝 Team player with strong problem-solving skills
+## 👩‍💻 Overview
+I am a Senior Angular Developer with strong expertise in **frontend development** and hands-on experience in **Python & Django backend systems**. I have worked on multiple enterprise and website projects across domains such as Healthcare, Hotel Management, Loan Recovery, Machinery Management, and Business Websites.
+
+I focus on **clean architecture, performance optimization, and user-centric design**, delivering reliable and maintainable solutions.
 
 ---
 
-## 🛠️ Tech Stack
-**Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3, SCSS  
-**UI Libraries:** Angular Material, Bootstrap  
-**State Management:** RxJS  
-**Tools:** Git, GitHub, VS Code  
-**APIs:** REST APIs
+## 🛠️ Core Skills
+- **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3, SCSS  
+- **UI & UX:** Angular Material, Bootstrap, Responsive Web Design  
+- **Backend:** Python, Django, Django REST Framework  
+- **APIs:** RESTful API Integration  
+- **Tools:** Git, GitHub, GitLab, VS Code, Postman  
 
 ---
 
-## 📂 Project Domains
-- Healthcare Management Systems  
-- Hotel Management Systems  
-- Loan Recovery Systems  
-- Machinery Management Systems  
+## 📂 Key Projects & Domains
+
+### 🌐 Website Projects
+- Corporate & business websites
+- Retail Real Estate website
+- Focus Business Solution Ltd website
+- SEO-friendly, responsive UI development
+
+### 🏥 Healthcare Management System *(Angular + Python)*
+- Patient appointments, doctor consultations
+- Medical records & hospital administration
+- Role-based access and real-time updates
+
+### 🏨 Hotel Management System *(Angular + Python)*
+- Online room booking & customer management
+- Admin dashboards & operational automation
+
+### 💰 Loan Recovery Management System
+- Debt collection workflow automation
+- Promise-to-Pay tracking & reporting dashboards
+
+### 🚜 Tractor Machinery Management System
+- Dealer & inventory management
+- Nationwide dealer operations support
 
 ---
 
-## 📫 Connect with Me
+## 🏆 Achievements
+- Improved Angular application performance by **30–40%**
+- Built multiple Angular websites increasing user engagement
+- Optimized load times for better user experience
+
+---
+
+## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/nirali-patel-404bb21a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 - 📧 Email: niralibpatel13@gmail.com
 
 ---
 
-⭐ Passionate about learning, improving, and building impactful web solutions.
+⭐ Passionate about continuous learning, performance optimization, and building impactful web solutions.
