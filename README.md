@@ -24,10 +24,8 @@ I focus on **clean architecture, performance optimization, and user-centric desi
 ## 📂 Key Projects & Domains
 
 ### 🌐 Website Projects
-- Corporate & business websites
 - Retail Real Estate website
 - Focus Business Solution Ltd website
-- SEO-friendly, responsive UI development
 
 ### 🏥 Healthcare Management System *(Angular + Python)*
 - Patient appointments, doctor consultations
