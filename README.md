@@ -1,7 +1,7 @@
 # Hi 👋, I'm Nirali Patel
 
 🚀 **Senior Angular Developer | Full-Stack (Angular | Python | Django)**  
-💼 6+ years of experience in building scalable, high-performance web applications and enterprise systems.
+💼 7 years of experience in building scalable, high-performance web applications and enterprise systems.
 
 ---
 
